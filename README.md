@@ -1,4 +1,4 @@
-By: Iago Silva, Lucas Marra e Arthur Diniz
+Por: Iago Silva, Lucas Marra e Arthur Diniz
 
 # Gastos Diretos do Governo Federal
 
